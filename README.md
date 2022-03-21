@@ -2,9 +2,9 @@
 
 This is  **JINX_XIAN** from China, a green hand as a coder. 
 
-- 🏫 I’m currently learning in 
+- 🏫 I’m currently learning in the Software Engineering School of ***Dalian University of Technology*** 
 
-  the Software Engineering School of ***Dalian University of Technology*** majored in cybersecurity.
+  ​	  majored in cybersecurity.
 
 - 👯 I’m looking to collaborate on some 
 
